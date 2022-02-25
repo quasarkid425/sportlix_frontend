@@ -56,7 +56,7 @@ const Testimonials = () => {
                     color={"green.200"}
                     fontSize={"3rem"}
                   >
-                    "
+                    &ldquo;
                   </Box>
                   Awesome softball bag I grabbed for my spouse. Fits all of her
                   best perfectly with a separate compartment for dirty smelly
