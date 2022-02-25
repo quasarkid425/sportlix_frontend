@@ -97,6 +97,7 @@ const Product = ({ product }) => {
               >
                 {product.listingImages.map((img) => (
                   <Image
+                    key={img}
                     src={img}
                     alt={"A main product image"}
                     borderRadius={".5rem"}

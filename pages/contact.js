@@ -71,7 +71,8 @@ const Contact = () => {
             fontSize={{ md: "1.5rem" }}
             fontWeight={"bold"}
           >
-            Have a question? Send us a message and we'll get back to you ASAP
+            Have a question? Send us a message and we&apos;ll get back to you
+            ASAP
           </Text>
 
           <Stack align={"center"} mt={"2rem"} justify="center" minH={"25vh"}>
