@@ -84,7 +84,7 @@ const Card = ({ product, bestSeller, featured }) => {
 
             <Flex justifyContent="space-between" alignContent="start">
               <Box fontSize="2xl" color={"#fff"}>
-                <Box as="span" color={"gray.600"} fontSize="lg" color={"#fff"}>
+                <Box as="span" fontSize="lg" color={"#fff"}>
                   $
                 </Box>
                 {product.price.toFixed(2)}
